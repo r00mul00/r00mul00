@@ -37,14 +37,17 @@ Atualmente estudo Python, SQL, Power BI e Estatística, desenvolvendo projetos p
 
 <p align="center">
   <a href="https://www.linkedin.com/in/romulojaraujo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rômulo_Araújo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         width="45" />
   </a>
 
   <a href="mailto:romulojaraujo@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg"
+         alt="Email"
+         width="45" />
   </a>
 </p>
-
 <p align="center">
   📊 Data Analytics • Python • SQL • Power BI • Business Intelligence
 </p>
