@@ -24,12 +24,12 @@ Atualmente estudo Python, SQL, Power BI e Estatística, desenvolvendo projetos p
 ✔️ Projetos voltados para negócios
 
 ### 💻 Linguagens e Tecnologias
-
-<a href="https://github.com/vinicius-granco"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-
-<a href="https://github.com/vinicius-granco"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-
- <a href="https://github.com/vinicius-granco"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=black"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?logo=powerbi&logoColor=black"></a>
+<a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoftexcel&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
 
  ## 📫 Vamos conversar?
 
