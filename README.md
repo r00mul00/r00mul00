@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72DA43&width=435&lines=%3Cspan+style%3D%27color%3Awhite%27%3Eprint%3C%2Fspan%3E(%22Hello%2C+World!%22)" alt="Typing SVG" />
-</a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serigrafia&pause=1000&color=72DA43&width=435&lines=print(%22Hello%2C+World!%22)" alt="Typing SVG" /></a>
 </div>
 
 Me chamo Rômulo Araujo,
