@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serigrafia&pause=1000&color=3CDA74&width=435&lines=print(%22Hello%2C+World!%22)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Rocker&pause=1000&color=62529E&width=435&lines=print(%22Hello%2C+World!%22)" alt="Typing SVG" /></a>
 </div>
 
 Me chamo Rômulo Araujo,
