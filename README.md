@@ -42,7 +42,6 @@ Atualmente estudo Python, SQL, Power BI e Estatística, desenvolvendo projetos p
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
 
- ## 📫 Vamos conversar?
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
