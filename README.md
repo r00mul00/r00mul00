@@ -2,12 +2,12 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRhb3R2cHc1ZWo3cTJ4Zm90a2dmeW10aXpsd210ZmhweXN6cmFsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z8OcWLLk4SrpS/giphy.gif" width="200">
 </div>
 
-<div align="">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Rocker&duration=01&pause=1000&color=FFFFFF&width=435&lines=Me+chamo+R%C3%B4mulo+Ara%C3%BAjo%2C+" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Rocker&duration=01&pause=1000&color=62529E&width=435&lines=print(%22hello+world%22)" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Rocker&duration=01&pause=1000&color=62529E&width=435&lines=Me+chamo+R%C3%B4mulo+Ara%C3%BAjo%2C+" alt="Typing SVG" /></a>
+<div align="">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Rocker&duration=01&pause=1000&color=FFFFFF&width=435&lines=Me+chamo+R%C3%B4mulo+Ara%C3%BAjo%2C+" alt="Typing SVG" /></a>
 </div>
 
 ### "Dados contam histórias. Meu trabalho é encontrar as que geram resultados!"
