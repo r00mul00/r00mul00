@@ -10,6 +10,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Rocker&duration=01&pause=1000&color=FFFFFF&width=435&lines=Me+chamo+R%C3%B4mulo+Ara%C3%BAjo%2C+" alt="Typing SVG" /></a>
 </div>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Rocker&duration=01&pause=1000&color=FFFFFF&width=435&lines=Me+chamo+R%C3%B4mulo+Ara%C3%BAjo%2C+" alt="Typing SVG" /></a>
+
 ### "Dados contam histórias. Meu trabalho é encontrar as que geram resultados!"
 
 Sou estudante de Administração em transição para a área de Dados, fascinado por transformar informações dispersas em insights que ajudam empresas a tomar decisões melhores.
