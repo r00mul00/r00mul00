@@ -43,7 +43,7 @@ Atualmente estudo Python, SQL, Power BI e Estatística, desenvolvendo projetos p
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
 
 
-<h2 align="center">📫 Conecte-se Comigo</h2>
+<h2 align="">📫 Conecte-se Comigo</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/romulojaraujo/" target="_blank">
