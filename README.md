@@ -20,7 +20,7 @@ Atualmente estudo Python, SQL, Power BI e Estatística, desenvolvendo projetos p
 
 ## 📈 O que você encontrará aqui
 
-<img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BkN3k3dTRwdGsxaXE5MXgyNm8yYmNwenlmY3Q3Z3MwZ2xidmt5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif"  />
+<img align="right" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BkN3k3dTRwdGsxaXE5MXgyNm8yYmNwenlmY3Q3Z3MwZ2xidmt5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif"  />
 
 ✔️ Análises exploratórias de dados
 
