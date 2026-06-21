@@ -11,13 +11,15 @@
 </div>
 
 
-### "Código bem estruturado não é só funcionamento — é escalabilidade, manutenção e confiabilidade em produção."
+### "Busco desenvolver soluções com foco em código limpo, APIs bem estruturadas e sistemas fáceis de manter e evoluir."
 
-Sou estudante de Administração em transição para Engenharia de Software, com foco em desenvolvimento Backend. Tenho interesse em construir APIs robustas, sistemas escaláveis e soluções orientadas a performance e boas práticas de engenharia.
+Desenvolvedor backend focado em Java, aprendendo a construção de APIs REST, integração com bancos de dados relacionais e desenvolvimento de aplicações orientadas a boas práticas de engenharia de software.
 
-Atualmente estudo Java como linguagem principal, além de SQL, estrutura de APIs REST, banco de dados e princípios de arquitetura de software, aplicando tudo em projetos práticos com foco em qualidade de código e padrão de mercado.
+Tenho experiência prática com desenvolvimento de endpoints, modelagem de dados, consultas SQL e estruturação de projetos backend utilizando arquitetura em camadas. Busco aplicar princípios como separação de responsabilidades, reusabilidade e organização de código.
 
----
+Atualmente trabalho com Java e Spring Boot, além de SQL para persistência de dados. Também utilizo Git para versionamento de código e aplico práticas básicas de testes e organização de projetos voltadas para ambientes de produção.
+
+
 
 ## 🧠 O que você encontrará aqui
 
@@ -36,7 +38,7 @@ Atualmente estudo Java como linguagem principal, além de SQL, estrutura de APIs
 
 ## 💻 Linguagens e Tecnologias
 
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white"></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
