@@ -21,7 +21,7 @@ Atualmente trabalho com Java e Spring Boot, além de SQL para persistência de d
 
 
 
-## 🧠 O que você encontrará aqui
+## 🧠 O que você encontrará aqui 
 
 <img align="right" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BkN3k3dTRwdGsxaXE5MXgyNm8yYmNwenlmY3Q3Z3MwZ2xidmt5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif"  />
 
@@ -34,9 +34,13 @@ Atualmente trabalho com Java e Spring Boot, além de SQL para persistência de d
 ✔️ Consumo e criação de APIs escaláveis  
 ✔️ Versionamento e fluxo de trabalho com Git  
 
----
 
-## 💻 Linguagens e Tecnologias
+
+<div align="center">
+  
+## 💻 Tech Stack
+
+</div>
 
 <p align="center">
 
@@ -49,9 +53,11 @@ Atualmente trabalho com Java e Spring Boot, além de SQL para persistência de d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
 
 </p>
----
+<div align="center">
 
 ## ⚙️ Foco de Engenharia
+
+</div>
 
 - Desenvolvimento de APIs escaláveis com Java + Spring Boot  
 - Estruturação de sistemas backend limpos e manuteníveis  
@@ -60,9 +66,13 @@ Atualmente trabalho com Java e Spring Boot, além de SQL para persistência de d
 - Versionamento profissional com Git e GitHub  
 - Preparação para ambientes de produção (Docker e deploy básico)  
 
----
+
+
+<div align="center">
 
 ## 📫 Conecte-se Comigo
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/romulojaraujo/" target="_blank">
