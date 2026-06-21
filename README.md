@@ -23,7 +23,9 @@ Atualmente trabalho com Java e Spring Boot, além de SQL para persistência de d
 
 ## 🧠 O que você encontrará aqui 
 
-<img align="right" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BkN3k3dTRwdGsxaXE5MXgyNm8yYmNwenlmY3Q3Z3MwZ2xidmt5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif"  />
+<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BkN3k3dTRwdGsxaXE5MXgyNm8yYmNwenlmY3Q3Z3MwZ2xidmt5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif" />
+
+<div style="max-width: 60%;">
 
 ✔️ APIs REST com Java (Spring Boot)  
 ✔️ Sistemas backend com arquitetura em camadas  
@@ -34,13 +36,11 @@ Atualmente trabalho com Java e Spring Boot, além de SQL para persistência de d
 ✔️ Consumo e criação de APIs escaláveis  
 ✔️ Versionamento e fluxo de trabalho com Git  
 
-
-
-<div align="center">
-  
-## 💻 Tech Stack
-
 </div>
+
+<div style="clear: both;"></div>
+
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -49,15 +49,13 @@ Atualmente trabalho com Java e Spring Boot, além de SQL para persistência de d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
 
 </p>
-<div align="center">
 
-## ⚙️ Foco de Engenharia
-
-</div>
+## ⚙️ Foco de Engenharia de Software
 
 - Desenvolvimento de APIs escaláveis com Java + Spring Boot  
 - Estruturação de sistemas backend limpos e manuteníveis  
