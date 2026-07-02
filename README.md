@@ -23,7 +23,7 @@ Atualmente trabalho com Java e Spring Boot, além de SQL para persistência de d
 
 ## 🧠 O que você encontrará aqui 
 
-<img align="right" height="245" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BkN3k3dTRwdGsxaXE5MXgyNm8yYmNwenlmY3Q3Z3MwZ2xidmt5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif" />
+<img align="right" height="240" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BkN3k3dTRwdGsxaXE5MXgyNm8yYmNwenlmY3Q3Z3MwZ2xidmt5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif" />
 
 <div style="max-width: 60%;">
 
